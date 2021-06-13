@@ -1,4 +1,4 @@
-<img src="https://github.com/aidenpearce369/aidenpearce369/blob/master/header.png" alt="aidenpearce369 GitHub README header image">
+<img src="https://raw.githubusercontent.com/AidenPearce369/AidenPearce369/main/header.jpg" alt="aidenpearce369 GitHub README header image">
 
 
 
