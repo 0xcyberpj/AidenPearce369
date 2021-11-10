@@ -5,7 +5,7 @@
 ### Hi there, I'm Monish Kumar - aka [aidenpearce369](https://aidenpearce369.github.io) 👋
 
 
-<p><em>Security Analyst | Youtuber<br>
+<p><em>Security Researcher<br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://aidenpearce369.github.io">➡️ Check out my website</a>
 </em></p>
 
